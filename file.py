@@ -1,5 +1,5 @@
 
 a = 40
 
-for i in range(a):
-    print(i)
+b =20
+print(a+b)
