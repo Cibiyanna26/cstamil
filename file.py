@@ -1,5 +1,3 @@
-
-a = 40
-
-for i in range(a):
-    print(i)
+a = 15
+b = 20
+print(a*b)
