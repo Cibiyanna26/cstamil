@@ -1,3 +1,3 @@
-a = 20
+a = 30
 for i in range(a):
     print(i)
